@@ -144,5 +144,17 @@
 				(coerce (+ (mod (* -1 (- (coerce c 'int) 1488)) 27) 1488) 'char))
               (coerce chut 'cons))))))
 
+;HomoIconic: this code looks like what it does.
+
+; (def דם)
+; (def צפרדע)
+; (def כן)
+; (def ערב)
+; (def בקר)
+; (def שחין)
+; (def ברד)
+; (def ארבה)
+; (def חשך)
+; (def רכב)
 
 (hatzdaa argv)
